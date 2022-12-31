@@ -11,4 +11,5 @@
 > Guide to Markdown on Discord < 
    https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51
 
-> 
+> Gem Devise to authentication on Ruby applications < 
+https://github.com/heartcombo/devise
