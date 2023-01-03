@@ -13,3 +13,6 @@
 
 > Gem Devise to authentication on Ruby applications < 
 https://github.com/heartcombo/devise
+
+> It's fun
+ http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html
