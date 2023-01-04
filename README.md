@@ -14,5 +14,11 @@
 > Gem Devise to authentication on Ruby applications < 
 https://github.com/heartcombo/devise
 
-> It's fun
+> Accidentally Turing Complete (It's fun) <
  http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html
+
+> Badges for github <
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+> Emojipedia <
+https://emojipedia.org
