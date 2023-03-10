@@ -22,3 +22,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 > Emojipedia <
 https://emojipedia.org
+
+> Learn Git Branching <
+https://learngitbranching.js.org/?locale=pt_BR
