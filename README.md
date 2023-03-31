@@ -25,3 +25,6 @@ https://emojipedia.org
 
 > Learn Git Branching <
 https://learngitbranching.js.org/?locale=pt_BR
+
+> Shortcuts trainer <
+https://www.shortcutfoo.com
