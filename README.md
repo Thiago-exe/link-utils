@@ -28,3 +28,6 @@ https://learngitbranching.js.org/?locale=pt_BR
 
 > Shortcuts trainer <
 https://www.shortcutfoo.com
+
+> Complete network article extremely recomendded <
+https://cyberraiden.wordpress.com/2020/08/30/usb-wi-fi-adapter-settings-to-improve-slow-performance-and-frequent-disconnections-on-windows-os/
