@@ -36,4 +36,5 @@ https://cyberraiden.wordpress.com/2020/08/30/usb-wi-fi-adapter-settings-to-impro
 <p><br>https://fonts.google.com </br>
 <br> https://www.fontpair.com </br>
 <br> https://www.fontsquirrel.com </br>
-<br> https://fonts.adobe.com </br> </p>
+<br> https://fonts.adobe.com </br>
+<br>https://www.dafont.com/pt/</br></p>
