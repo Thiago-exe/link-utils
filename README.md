@@ -31,3 +31,9 @@ https://www.shortcutfoo.com
 
 > Complete network article extremely recomendded <
 https://cyberraiden.wordpress.com/2020/08/30/usb-wi-fi-adapter-settings-to-improve-slow-performance-and-frequent-disconnections-on-windows-os/
+
+> Web fonts <
+<p><br>https://fonts.google.com </br>
+<br> https://www.fontpair.com </br>
+<br> https://www.fontsquirrel.com </br>
+<br> https://fonts.adobe.com </br> </p>
